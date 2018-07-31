@@ -1,2 +1,2 @@
-# docs
+# BlockCluster Documentation
 Documentation and Tutorials
