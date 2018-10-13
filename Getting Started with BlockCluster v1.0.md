@@ -74,7 +74,7 @@ These steps are explained in detail below. For the ease of understanding, we hav
 
 Create a BlockCluster account by visiting app.blockcluster.io. After successfully logging in to your BlockCluster account for the first time, the first screen you will see is 'Create Your Blockchain Network.' 
 
-![https://raw.githubusercontent.com/BlockClusterApp/docs/master/Screenhots/Screen%201%20-%20Create%20Your%20Blockchain%20Network.png]()
+![https://github.com/BlockClusterApp/docs/blob/master/Screenhots/Screen%2010%20-%20Issue%20Assets%202.png?raw=true]()
 
 On this screen, you will be creating a single node network by following these steps:
 
