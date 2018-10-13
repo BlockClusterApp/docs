@@ -10,7 +10,7 @@ This article is for developers who want to build enterprise dapps using BlockClu
 
 ### [About BlockCluster](https://github.com/BlockClusterApp/docs/blob/master/Getting%20Started%20with%20BlockCluster%20v1.0.md#about-blockcluster-1)
 
-### [Use BlockCluster in 5 Easy Steps]()
+### [Use BlockCluster in 5 Easy Steps](https://github.com/BlockClusterApp/docs/blob/master/Getting%20Started%20with%20BlockCluster%20v1.0.md#use-blockcluster-in-5-easy-steps-1)
 
 1. ##### [Create Your Blockchain Network]()
 
