@@ -2,7 +2,7 @@
 In this repository you will find documentation and tutorials on how to use BlockCluster BMS.
 
 ## Usage and Getting Started
-You can find a getting started guide [here](Getting%20Started%20with%20BlockCluster.md)
+You can find a getting started guide [here](Getting_Started.md)
 ## API Reference:
 
 BlockCluster provides REST APIs to interact with [Dynamo nodes](https://node.api.blockcluster.io), the [PaaS](https://platform.api.blockcluster.io) and [Hyperion](https://hyperion.api.blockcluster.io)
