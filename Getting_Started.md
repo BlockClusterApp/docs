@@ -8,40 +8,40 @@ This article is for developers who want to build enterprise dapps using BlockClu
 
 > ## **Table of Contents**
 
-### [About BlockCluster](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#about-blockcluster-1)
+### [About BlockCluster](#about-blockcluster-1)
 
-### [Use BlockCluster in 5 Easy Steps](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#use-blockcluster-in-5-easy-steps-1)
+### [Use BlockCluster in 5 Easy Steps](#use-blockcluster-in-5-easy-steps-1)
 
-1. ##### [Create Your Blockchain Network](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#1-create-your-blockchain-network)
+1. ##### [Create Your Blockchain Network](#1-create-your-blockchain-network)
 
-2. ##### [Invite Other Parties to Join Your Network](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#2-invite-other-parties-to-join-your-network)
+2. ##### [Invite Other Parties to Join Your Network](#2-invite-other-parties-to-join-your-network)
 
-   - [Manually Join the Network](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#a-manually-join-the-network)
-   - [Invite User to Network](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#b-invite-user-to-network)
+   - [Manually Join the Network](#a-manually-join-the-network)
+   - [Invite User to Network](#b-invite-user-to-network)
 
-3. ##### [Create Assets](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#3-create-assets)
+3. ##### [Create Assets](#3-create-assets)
 
-   - [Create Assets representing tangible/physical assets like 'Land'](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#a-create-assets-representing-tangiblephysical-assets-like-land)
-   - [Create Assets representing monetary assets like 'Currency'](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#b-create-assets-representing-monetary-assets-like-currency)
-   - [Create Blockchain Accounts](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#c-create-blockchain-accounts)
+   - [Create Assets representing tangible/physical assets like 'Land'](#a-create-assets-representing-tangiblephysical-assets-like-land)
+   - [Create Assets representing monetary assets like 'Currency'](#b-create-assets-representing-monetary-assets-like-currency)
+   - [Create Blockchain Accounts](#c-create-blockchain-accounts)
 
-4. ##### [Issue Assets](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#4-issue-assets)
+4. ##### [Issue Assets](#4-issue-assets)
 
-5. ##### [Exchange Assets](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#5-exchange-assets)
+5. ##### [Exchange Assets](#5-exchange-assets)
 
-### [Other Features](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#3-other-features)
+### [Other Features](#3-other-features)
 
-1. [Streams - Message queue](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#streams)
+1. [Streams - Message queue](#streams)
 
-2. [Notification - WEBHOOKS](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#notifications)
+2. [Notification - WEBHOOKS](#notifications)
 
-3. [See Details of the Transactions](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#see-detail-of-the-transactions)
+3. [See Details of the Transactions](#see-detail-of-the-transactions)
 
-4. [Search for a Particular Solo Asset or Stream Information](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#search-for-a-particular-solo-asset-or-stream-information)
+4. [Search for a Particular Solo Asset or Stream Information](#search-for-a-particular-solo-asset-or-stream-information)
 
-5. [Know About History of an Asset](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#know-about-history-of-an-asset)
+5. [Know About History of an Asset](#know-about-history-of-an-asset)
 
-6. [Add Your Own Smart Contracts](https://github.com/BlockClusterApp/docs/blob/master/Getting_Started.md#add-your-own-smart-contracts)
+6. [Add Your Own Smart Contracts](#add-your-own-smart-contracts)
 
 
 
