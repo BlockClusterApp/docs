@@ -2,7 +2,7 @@
 In this repository you will find documentation and tutorials on how to use BlockCluster BMS.
 
 ## Usage and Getting Started
-You can find a getting started guide [here](BlockClusterApp/blob/master/Getting Started with BlockCluster v1.0.md).
+You can find a getting started guide [here] (BlockClusterApp/blob/master/Getting Started with BlockCluster v1.0.md).
 
 ## API Reference:
 
