@@ -9,3 +9,4 @@ BlockCluster provides REST APIs to interact with [Dynamo nodes](https://node.api
 
 Dynamo node APIs let you create assets and streams, search, create and export accounts, interact with impulse server and so on. Hyperion APIs let you upload and share files. Whereas, platform APIs let you create, join and invite others to networks.
 
+BlockCluster provides [Node.js SDK](https://github.com/BlockClusterApp/blockcluster-node) to make it easy to integrate APIs in Node.js Apps.
