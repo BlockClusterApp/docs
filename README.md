@@ -7,7 +7,7 @@ You can find a getting started guide [here](Getting_Started.md)
 
 ## APIs
 
-BlockCluster provides REST APIs to interact with [Nodes](https://dynamo.api.blockcluster.io), [Payment](https://paymeter.api.blockcluster.io), the [Platform](https://platform.api.blockcluster.io) and [Storage](https://hyperion.api.blockcluster.io)
+BlockCluster provides REST APIs for [Nodes](https://dynamo.api.blockcluster.io), [Payment](https://paymeter.api.blockcluster.io), the [Platform](https://platform.api.blockcluster.io) and [Storage](https://hyperion.api.blockcluster.io)
 
 ## SDK
 
