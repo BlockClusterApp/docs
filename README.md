@@ -3,7 +3,7 @@ In this repository you will find documentation and tutorials on how to use Block
 
 ## Usage and Getting Started
 You can find a getting started guide [here](Getting_Started.md)
-## API Reference:
+## APIs:
 
 BlockCluster provides REST APIs to interact with [Nodes](https://dynamo.api.blockcluster.io), [Payment](https://paymeter.api.blockcluster.io), the [Platform](https://platform.api.blockcluster.io) and [Storage](https://hyperion.api.blockcluster.io)
 
