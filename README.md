@@ -5,7 +5,7 @@ In this repository you will find documentation and tutorials on how to use Block
 You can find a getting started guide [here](Getting_Started.md)
 ## API Reference:
 
-BlockCluster provides REST APIs to interact with [blockchain](https://dynamo.api.blockcluster.io), [payments](https://paymeter.api.blockcluster.io), the [platform](https://platform.api.blockcluster.io) and [storage](https://hyperion.api.blockcluster.io)
+BlockCluster provides REST APIs to interact with [nodes](https://dynamo.api.blockcluster.io), [payments](https://paymeter.api.blockcluster.io), the [platform](https://platform.api.blockcluster.io) and [storage](https://hyperion.api.blockcluster.io)
 
 ## SDKs:
 
