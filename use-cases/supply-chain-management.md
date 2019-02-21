@@ -1,3 +1,4 @@
+
 # Supply Chain Management 
 
 This is an example use-case for showcasing how to build a blockchain application to manage supply chain.
@@ -57,7 +58,7 @@ These will be the various participants of the supply chain:
 - Participant 5 – The 3PL further contract the delivery of the car to the trucking company.
 - Participant 6 – The car gets finally delivered to the destination dealership.
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image3.png)
+![](images/supply-chain-management/image3.png)
 
 To build a Blockchain-based solution on BlockCluster to track & trace assets in such a supply chain, the manufacturer (in this case, car manufacturer) would follow below mentioned steps. [**Note**: the term ‘user’ and ‘manufacturer’ has been used interchangeably]
 
@@ -65,7 +66,7 @@ To build a Blockchain-based solution on BlockCluster to track & trace assets in 
 
 Manufacturer will first create a BlockCluster account by visiting app.blockcluster.io. After successfully logging in to the BlockCluster account for the first time, the first screen is 'Create Your Blockchain Network.'
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image4.png)
+![](images/supply-chain-management/image4.png)
 
 - Blockchain network name needs to be entered in the 'Network Name' box. For example, Car_Demo
 - Other values would be pre-selected. However, the user can select 'Node Type.' There are two types of nodes available in the BlockCluster i.e. 'Light Node' and 'Power Node' that offer different no. of CPUs, RAM, and Disk Space. 
@@ -80,7 +81,7 @@ Once the network is up and running, the user will be redirected to BlockCluster 
 
 Manufacturer needs to invite other participants of the supply chain with whom transactions need to be done, i.e. issue/exchange assets. The user needs to click invite user icon (second icon) in the top icon bar.
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image6.png)
+![](images/supply-chain-management/image6.png)
 
 On this screen, the user needs to select the second option ‘invite user to network.’
 
@@ -91,7 +92,7 @@ On this screen, the user needs to select the second option ‘invite user to net
 
 Once all the participants have joined the network, the manufacturer will create assets (in this case, cars) on the Blockchain network. The user will click on 'Create Asset Type' from 'Control Panel.'
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image7.png)
+![](images/supply-chain-management/image7.png)
 
 User will enter 'Asset Name.' For example, Car_Model. Select ‘Asset Type’ as ‘Solo.’ Keep ‘issuing address’ as ‘Default.’ And will click ‘Create.’
 
@@ -101,11 +102,11 @@ User will enter 'Asset Name.' For example, Car_Model. Select ‘Asset Type’ as
 
 To issue assets: User will click on the 'Manage Assets' from the 'Assets' section.
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image2.png)
+![](images/supply-chain-management/image2.png)
 
 In issue ‘Solo Asset’ section, the user will type the asset name, and in the ‘to account’ the default manufacturer account address, and finally click ‘issue asset.’ An identifier can be added to the transaction that can be the registration number of the vehicle. [The address can be copied from the ‘Accounts’ section in the dashboard]
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image5.png)
+![](images/supply-chain-management/image5.png)
 
 ## Process Flow
 
@@ -116,7 +117,7 @@ Now whenever an asset will move from one participant to another, two steps are r
 1. **Transfer of ownership:** This will happen through API call integrated with the apps used by each participant in the supply chain. As soon as they give the custody of asset to other participant, they need to transfer the ownership of asset on BlockCluster too, via the API integrated with the apps. This will be captured with time and geo-location.
 2. **Issue receipts:** The participant who has received the custody of the asset (transferee) would issue a receipt to the transferor in the form of a new asset on the Blockchain. The assets info (receipt) would contain important information such as lat-long, status, asset id, etc. (See the figure)
 
-![](/Users/narayanprusty/Desktop/docs/use-cases/images/supply-chain-management/image1.png)
+![](images/supply-chain-management/image1.png)
 
 The receipt would act as a **declaration** by the receiving participant that he has taken the custody of the goods. The lat-long details in the asset info would help in tracking the location of the asset in real-time.
 
