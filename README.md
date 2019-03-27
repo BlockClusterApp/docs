@@ -19,3 +19,4 @@ Here is an list of example use-cases showing how to build your enterprise grade 
 
 * [Supply Chain Management](use-cases/supply-chain-management.md): Learn how to build track and trace related DApps.
 * [Healthcare](use-cases/healthcare.md): Learn how to build DApps involving HIPAA compliant data storage and sharing. This will also help you learn how to build interoperable  DApps.
+* [Governments](use-cases/governments.md): Learn how various departments of government can use blockchain to prevent fraud, streamline processes, digitalize records, maximise revenue and so on. 
