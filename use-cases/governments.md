@@ -15,13 +15,13 @@ to retailers &amp; customers. This will speed up the whole process by removing a
 intermediaries and help farmers get better prices for their produce, enabling them to
 have a better life for themselves and their families.
 
-<u>Problem</u>
+**Problem**
 
 Farmers are not able to sell their yield at reasonable prices. Intermediaries eat away
 profit margin of farmers. Due to the monopoly of middlemen, farmers sell the crops at
 losses.
 
-<u>Solution</u>
+**Solution**
 
 A mobile platform, leveraging Blockchain-technology in the back-end can help the
 farmers. They would be able to list their yield directly on the marketplace. The transfer
@@ -29,7 +29,7 @@ of money happens via Smart Contracts, based on the prices set by the farmers and
 defined orders of the customers. This will help both the customers and the farmers by
 eliminating middlemen in the supply chain.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 The produce of the farmers can be issued in the form of assets on the BlockCluster. For
 farmers, the interface to the solution would be easy to use mobile application available
@@ -44,7 +44,7 @@ the disbursal of settlement amount in the crop insurance. Blockchain can automat
 process of claim settlement and provide farmers the much-needed funds on or even
 before the occurrence of the natural disaster/unfavorable climate conditions.
 
-<u>Problem</u>
+**Problem**
 
 The process of filing claims for crop insurance is lengthy. It involves a lot of paperwork
 and manual intervention of a field inspector. Since the decision of releasing the funds
@@ -52,7 +52,7 @@ and the amount of the funds to be released solely depends on the report submitte
 the field inspector, the process is prone to unethical practices. It takes days, even
 month for the farmers to get the money credited in the bank account.
 
-<u>Solution</u>
+**Solution**
 
 A mobile platform leveraging Smart Contracts and intelligent weather prediction can
 help farmers hedge against climate volatility. Through the use of weather APIs from
@@ -66,7 +66,7 @@ that the farmers are eligible for the claim amount.
 
 Settlement happens automatically, and the transactions are recorded on the Blockchain.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 The whole insurance agreement can be recorded in the form of Smart Contract on
 BlockCluster which can be configured to execute claim settlement amount upon getting
@@ -79,13 +79,13 @@ a citizen is stored in centralized servers and is prone to falsification. Additi
 means to verify this information is limited. Blockchain can help to build a comprehensive
 decentralized toolset for identity verification.
 
-<u>Problem</u>
+**Problem**
 
 Paper-based certificates can be forged or reproduced. The process of issuing such
 documents is prone to error and discrepancies. Due to manual and centralized
 handling, the process is susceptible to frauds and distortion.
 
-<u>Solution</u>
+**Solution**
 
 The Blockchain solution will allow doctors and parents present at the birth to log and
 register the birth (and other information, such as the blood type) on a permissioned
@@ -95,7 +95,7 @@ Since it is a permissioned Blockchain, only some key officials would have author
 enter the data. The data can only be appended (not edited). The certificate then can be
 issued digitally. Similarly, it can be applied to death and marriage certificates.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 The digital certificates can be issued in the form of assets on BlockCluster, and various
 types of information can be added to this asset. Furthermore, asset-based
@@ -109,7 +109,7 @@ Blockchain can be utilized to securely issue and store the details of the tangib
 like land, property, vehicle, etc. and create a chain of custody as the ownership of these
 assets get transferred from one person to another.
 
-<u>Problem</u>
+**Problem**
 
 Physical assets get occupied (land &amp; property) and stolen (vehicle) by different means.
 It is difficult to determine the owner of the asset since everything can be morphed by the
@@ -117,7 +117,7 @@ perpetrators. A massive amount of time and money is spent to prove the ownership
 the asset; and if the culprits are able to prove that the asset belongs to them, then the
 innocent citizens suffer, and the entire judicial system becomes questionable.
 
-<u>Solution</u>
+**Solution**
 
 A Blockchain solution can store the details associated with the assets in digital format
 on an immutable distributed ledger network. This private ledger will only be accessed
@@ -126,7 +126,7 @@ by the police, government officials, and insurance companies’ representatives.
 Assets that are prone to thefts can be equipped with GPS locators or IoT devices that
 can send information about the whereabouts of the asset from time to time.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 Assets like these can be issued by the government on the BlockCluster, and different
 types of information can be associated with them. The government official can then
@@ -139,14 +139,14 @@ indicating who owns the property at present.
 Blockchain can be utilized to ensure honest reporting and keeping track of different
 phases of taxing.
 
-<u>Problem</u>
+**Problem**
 
 There is a lack of honest reporting of actual information. Manual and centrally controlled
 invoices are prone to mistakes/falsification and can be misplaced. Un-channelized
 Involvement of strata of intermediaries such as banks, traders, regulators, exchanges,
 etc. makes it difficult in managing the transfer of ownership of goods.
 
-<u>Solution</u>
+**Solution**
 
 The real-time recording of the data on the Blockchain with Smart Contracts and AI can
 ensure correctness and automation of information about “How, When, and Where” the
@@ -163,7 +163,7 @@ without having to trust the other participants.
 Smart contracts can impose asset-based ownership in the entire lifecycle, i.e. from
 manufacturing to the consumption of goods.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 The manufacturers can create and issue asset on the BlockCluster that would represent
 goods. The authorized participants can transfer the ownership of the asset as the
@@ -176,14 +176,14 @@ that can be fetched by APIs to do tax calculations.
 Blockchain can be utilized to securely issue and store driving licenses (DL)/vehicle
 registration certificates (RC).
 
-<u>Problem</u>
+**Problem**
 
 Citizens need to carry their RC and DL with them always. The paper-based RC and DL
 or the centrally controlled digital copy of RC &amp; DL can be forged and reproduce. The
 process of issuing RC/DL is prone to frauds such as impersonation and the process of
 re-issue of RC/DL, in case it gets lost, is cumbersome.
 
-<u>Solution</u>
+**Solution**
 
 A car manufacturer registers a new car, then the car retailer associates it with its remote
 control lock, geo location, and the owner details. This information is stored in a shared
@@ -199,7 +199,7 @@ provided by the user with the details stored in the distributed ledger. Similarl
 storage, and issuance can be applied for the driving license as well. Since the possibility
 of impersonation is eliminated, the process re-issuance can be done quickly.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 RC/DL can be issued as assets on the BlockCluster with all the information of the
 vehicle and owner. The citizens can access this information via a mobile app, so they
@@ -211,14 +211,14 @@ the mobile app itself to hasten the process.
 Blockchain stamping can certify the existence of an electronic document’s content at a
 particular point in time.
 
-<u>Problem</u>
+**Problem**
 
 Acknowledgment of the signed documents and the process to prove its veracity
 presently done by the notary is prone to falsification and fraud. Fabricated stamps is
 another problem. There is no guarantee that the signer has signed the document in the
 presence of Notary.
 
-<u>Solution</u>
+**Solution**
 
 First, all the original documents can be uploaded on Blockchain, and their hashes can
 be created and stored on the Blockchain. At the time of verification, the SHA256 hash of
@@ -235,13 +235,13 @@ that the content was in their possession at that particular time.
 Blockchain can ease and speed up the process of setting up of businesses and make it
 more fair, secure, and transparent.
 
-<u>Problem</u>
+**Problem**
 
 Complex and time-consuming procedure for registering a business. Complexity in
 obtaining the necessary licenses and permits is also a big problem. Common instances
 of corruption, favoritism and inefficient processes.
 
-<u>Solution</u>
+**Solution**
 
 Registering the businesses in any distributed ledger technology will automate and cut
 the time involved in the entire process.
@@ -255,7 +255,7 @@ every procedure. The feature of Smart Contracts can automate a lot of processes 
 make it mandatory for businesses to fulfill the defined criteria in order to get permits and
 licenses. Thus, doing away with the instances of favoritism and corruption.
 
-<u>How BlockCluster can help in developing such a solution</u>
+**How BlockCluster can help in developing such a solution**
 
 The registration of the businesses can be done on BlockCluster in the form of assets
 that would contain all the details of the business. All the required document need to be
