@@ -182,4 +182,4 @@ Now as per collections config, Org2 doesn't have access to "collectionMarblePriv
 
 ![](images/query3.png)
 
-> To call invoke and query from your app, you can use the [REST APIs](privatehive.api.blockcluster.io) or [Node.js SDK](https://www.npmjs.com/package/blockcluster).
+> To call invoke and query from your app, you can use the [REST APIs](https://privatehive.api.blockcluster.io) or [Node.js SDK](https://www.npmjs.com/package/blockcluster).
