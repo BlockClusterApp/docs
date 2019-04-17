@@ -1,6 +1,10 @@
 # Getting Started with Privatehive
 
-In this tutorial we will learn how to create a Hyperledger Fabric networks and deploy networks using Privatehive, Blockcluster's Hyperledger Fabric-as-a-Service. In this tutorial we will create a network consisting of 3 peer organisations and 1 orderer organisation. Then we will deploy the [marbles02_private](<https://github.com/hyperledger/fabric-samples/tree/master/chaincode/marbles02_private>) chaincode and invoke/query using REST APIs.
+In this tutorial we will learn how to create a Hyperledger Fabric networks and deploy networks using Privatehive, BlockCluster's Hyperledger Fabric-as-a-Service. 
+
+> One of the most important feature of our Hyperledger Fabric-as-a-Service, which makes it different than other solutions is that different installations of BlockCluster i.e., blockcluster cloud, private cloud and on prem installations can connect with each other and form a network therefore achieving true *decentralisation*.
+
+In this tutorial we will create a network consisting of 3 peer organisations and 1 orderer organisation. Then we will deploy the [marbles02_private](<https://github.com/hyperledger/fabric-samples/tree/master/chaincode/marbles02_private>) chaincode and invoke/query using REST APIs.
 
 ## Creating Peer and Orderer Organisations
 
@@ -179,4 +183,3 @@ Now as per as collections config, Org2 doesn't have access to "collectionMarbleP
 ![](images/query3.png)
 
 > To call invoke and query from your app, you can use the [REST APIs](privatehive.api.blockcluster.io) or [Node.js SDK](https://www.npmjs.com/package/blockcluster).
-
