@@ -1,13 +1,13 @@
 # BlockCluster Documentation
 In this repository you will find documentation and tutorials on how to use BlockCluster BMS.
 
-## Usage and Getting Started
+## Protocols Usage and Getting Started
 
-You can find a getting started guide [here](Getting_Started.md)
+You can find a getting started guide for dynamo [here](Getting_Started.md) and for privatehive [here](privatehive/Getting_Started.md)
 
 ## APIs
 
-BlockCluster provides REST APIs for [Nodes](https://dynamo.api.blockcluster.io), [Payment](https://paymeter.api.blockcluster.io), the [Platform](https://platform.api.blockcluster.io) and [Storage](https://hyperion.api.blockcluster.io)
+BlockCluster provides REST APIs for [Dynamo](https://dynamo.api.blockcluster.io), [Paymeter](https://paymeter.api.blockcluster.io), [Privatehive](https://privatehive.api.blockcluster.io) the [Platform](https://platform.api.blockcluster.io) and [Hyperion](https://hyperion.api.blockcluster.io)
 
 ## SDK
 
