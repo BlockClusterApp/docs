@@ -20,7 +20,7 @@ After you create 3 peer organisations, you organisations list will look similar 
 
 Now, let's create the orderer organization. For this, click on "Create" and select "Orderer" instead of "Peer." For the demo, you can keep the orderer type as "Solo." In production, you will need to select "Kafka." 
 
-While creating orderer organization, it will ask to select a peer organization who can create channels in the orderer. The selected peer can only create channels in that ordered, no other peer organization has this permission. Also make sure the status of the peer is "Running".
+While creating orderer organization, it will ask to select a peer organization who can create channels in the orderer. The selected peer can only create channels in that orderer, no other peer organization has this permission. Also make sure the status of the peer is "Running".
 
 ![img](images/create_orderer_org.png)
 
